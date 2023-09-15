@@ -1,3 +1,5 @@
+This is a cost calculator project in React Js, where the user calculate the total cost of item present in the cart.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
